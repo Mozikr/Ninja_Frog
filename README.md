@@ -22,7 +22,7 @@ My first self-made game, made in 2021.
 
 <h2 align="center">Ratings :trophy: </h2>
 <p>Rating on newgrounds</p>
-<table>
+<table align="center">
 <tr>
     <td><p align="center"><img src="Image/score.png"/></p></td>
 </tr>
