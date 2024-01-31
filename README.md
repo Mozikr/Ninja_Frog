@@ -29,4 +29,5 @@ My first self-made game, made in 2021.
 </table>
 
 <h2 align="center">Download</h2>
+
 Click here to download [NinjaFrog](https://mozikr.itch.io/ninja-frog)
