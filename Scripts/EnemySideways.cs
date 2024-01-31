@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Enemy_Sideways : MonoBehaviour
+public class EnemySideways : MonoBehaviour
 {
     [SerializeField] private float movementDistance;
     [SerializeField] private float speed;
