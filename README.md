@@ -28,7 +28,7 @@ My first self-made game, made in 2021.
 </tr>
 </table>
 
-<h2 align="center">Download</h2>
+<h2 align="center">Download :video_game: </h2>
 <p align="center">
     Click here to download <a href="https://mozikr.itch.io/ninja-frog">Ninja Frog</a>
 </p>
