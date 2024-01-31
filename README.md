@@ -21,7 +21,7 @@ My first self-made game, made in 2021.
 </table>
 
 <h2 align="center">Ratings :trophy: </h2>
-<p>Rating on newgrounds</p>
+<p align="center">Rating on newgrounds</p>
 <table align="center">
 <tr>
     <td><p align="center"><img src="Image/score.png"/></p></td>
